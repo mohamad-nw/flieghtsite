@@ -1,0 +1,110 @@
+@media (max-width: 767px)
+
+{
+    .login
+    {
+        width: 330px;
+    }
+
+    .upper-bar .info:first-child
+    {
+        margin-bottom: 0;
+    }
+
+    .slider .carousel-inner 
+    {
+        justify-content: center;
+    }
+
+    .slider .carousel-inner h1
+    {
+        font-size: 40px;
+        max-width: 100%;
+        left: auto;
+        text-align: center;
+    }
+
+    .fetured-work
+    {
+        padding: 50px 0;
+    }
+
+    .testimonials .carousel-indicators
+    {
+        bottom: 0;
+        display: none;
+    }
+
+    .testimonials .overlay h3
+    {
+        margin-top: 0px;
+    }
+
+    .testimonials .carousel-caption img
+    {
+        margin-bottom: 5px;
+    }
+
+    .testimonials .overlay h3
+    {
+        margin-top: 10px;
+    } 
+
+    .testimonials .carousel-caption
+    {
+        top: 13%;
+        margin-top:20px ;
+    }
+
+    .testimonials .carousel-caption h5 + span
+    {
+        margin-bottom: 5px;
+    }
+
+    .stats
+    {
+        padding: 50px 0;
+    }
+
+    .contact-us .info:last-child
+    {
+        margin-top: 20px;
+    }
+
+    .footer
+    {
+        padding: 50px 0;
+    }
+    .footer .site-info h2
+    {
+        margin-bottom: 15px;
+    }
+
+    .footer .helpful-links h2,
+    .footer .contact h2
+    {
+        margin-bottom: 20px;
+    }
+
+    .footer .contact ul li
+    {
+        margin-bottom: 10px;
+    }
+}
+
+@media (min-width: 768px)
+{
+
+
+}
+
+
+@media (min-width: 991px)
+{
+    
+}
+
+@media (min-width: 1200px)
+{
+    
+}
